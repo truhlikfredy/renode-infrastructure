@@ -113,10 +113,6 @@ namespace Antmicro.Renode.Peripherals.Video
                         repainter.Stop();
                     }
                 }
-                else
-                {
-                    repainter.Stop();
-                }
             }
         }
 
